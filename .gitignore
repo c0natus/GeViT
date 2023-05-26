@@ -132,5 +132,4 @@ dmypy.json
 # *.ipynb
 dataset/
 .vscode
-*.sh
 output/
